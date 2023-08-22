@@ -1,0 +1,31 @@
+
+
+@media screen and (min-width:800px)
+{
+    html {
+        font-size: 9px;
+    }
+}
+
+
+
+
+
+
+@media  screen and (min-width:1200px){
+    html{
+        font-size: 13px;
+    }
+    #section-b li {
+        width: 28%;
+        margin: 1%;
+        display: inline-block;
+    }
+    .box{
+    width: 50%;
+    float: left;
+    }
+ 
+   
+
+}
